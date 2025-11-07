@@ -4,7 +4,8 @@ WSIomics is an end-to-end pipeline to train multimodal AI models using whole-sli
 The pipeline adapts intermediate multimodal fusion. Therefore, it trains three models. One is the WSI model, another is the transcriptome model, and the other is the multimodal model. WSI model training was performed by the CLAM package (https://github.com/mahmoodlab/CLAM) with the UNI pretrained encoder. For the transcriptomic model, normalized expression values, such as transcripts per million, were used as input. 
 <p></p>
 
-![Picture4](https://github.com/user-attachments/assets/670feddd-e180-4980-9e30-055ba11d76a8)
+![Picture4](https://github.com/user-attachments/assets/15186973-09a7-4de3-b50d-da46acb2e1ab)
+
 
 <h3>Installation</h3>
 
