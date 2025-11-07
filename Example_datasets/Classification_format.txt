@@ -1,0 +1,2 @@
+Sensitive       0
+Resistant       1
